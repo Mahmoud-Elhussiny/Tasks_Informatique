@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Phone_Book.Api",
+    "\\Phone_Book.Api\\Endpoints",
+    "\\Phone_Book.Api\\Endpoints\\UserManagement"
+  ],
+  "SelectedNode": "\\Phone_Book.Api\\Endpoints\\UserManagement\\UserLogin.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,15 @@
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\bin\Debug\net6.0\Phone_Book.Application.deps.json
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\bin\Debug\net6.0\Phone_Book.Application.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\bin\Debug\net6.0\Phone_Book.Application.pdb
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\bin\Debug\net6.0\Phone_Book.Domain.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\bin\Debug\net6.0\Phone_Book.Domain.pdb
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.csproj.AssemblyReference.cache
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.AssemblyInfoInputs.cache
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.AssemblyInfo.cs
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.csproj.CoreCompileInputs.cache
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.csproj.CopyComplete
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\refint\Phone_Book.Application.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\Phone_Book.Application.pdb
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.Application\obj\Debug\net6.0\ref\Phone_Book.Application.dll
