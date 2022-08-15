@@ -1,0 +1,12 @@
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\bin\Debug\net6.0\Book_Phone.domain.deps.json
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\bin\Debug\net6.0\Book_Phone.domain.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\bin\Debug\net6.0\Book_Phone.domain.pdb
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.csproj.AssemblyReference.cache
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.AssemblyInfoInputs.cache
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.AssemblyInfo.cs
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.csproj.CoreCompileInputs.cache
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\refint\Book_Phone.domain.dll
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\Book_Phone.domain.pdb
+E:\Work_With_Ateaa\Tasks\Book_Phone\Book_Phone.domain\obj\Debug\net6.0\ref\Book_Phone.domain.dll
